@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  odate: 2015-05-25 08:22:58
+  title: MyString
+  text: MyText
+
+two:
+  odate: 2015-05-25 08:22:58
+  title: MyString
+  text: MyText
